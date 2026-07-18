@@ -95,21 +95,9 @@ Cleaned and preprocessed the House Prices dataset using Pandas.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikNoorjahan-GH&show_icons=true&theme=github_dark)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shaikNoorjahan-GH&theme=github-dark)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikNoorjahan-GH&layout=compact&theme=github_dark)
 
 ---
 
